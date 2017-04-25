@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 
 #Навальный пидор
+
+#Мегагей
 class TestClass(object):
     __first = 1
     first = 0
